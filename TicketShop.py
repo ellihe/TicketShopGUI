@@ -1,5 +1,5 @@
 # TIE-02101 Johdatus ohjelmointiin
-# Ellinoora Hetemaa
+# author: EH
 # Bussimaksulaskin, Graafisen käyttöliittymän yksinkertainen projektitehtävä 13.10:
 
 # Bussilippujen ostopalvelu, joka laskee käyttäjän haluaminen
